@@ -12,6 +12,6 @@
 
 
 ## Project architecture
-
+<img src="https://github.com/yanghes/greenparenting/blob/main/architecture.jpg"/>
 
 ## License
